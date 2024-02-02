@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imprint
-permalink: /imprint/
+permalink: /imprint
 ---
 
 # Contact
