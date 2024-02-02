@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+<h2>Plugin formats</h2>
+<ul>
+  <li><b>Windows 10 or higher</b>: VST3, CLAP</li>
+  <li><b>Ubuntu 22.04</b>: VST3, CLAP</li>
+  <li><b>macOS</b>: AU, VST3, CLAP</li>
+</ul>
+
+<h2>System requirements</h2>
+<ul>
+  <li>64 bit only</li>
+  <li>OpenGL 3 or higher</li>
+</ul>
+
+</div>
