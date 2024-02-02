@@ -16,7 +16,9 @@ permalink: /faq/
 # What kind of copy protection is used?
 There is no copy protection or any other form of DRM (digital rights management) used in Darkpalace Studio plugins.
 
-# How can I purchase Darkpalace Studio plugins?
-Click the buy button on the plugin website.
+# How can I purchase any of the plugins?
+Click the buy button on the plugin website. It will take you to the payment provider which handles secure payment and delivery of the plugin files.
 
-The payment and deliverey is securely handled by the payment provider tentary.
+# Do you offer sales or bundle prices?
+Darkpalace Studio plugins are already offered at a reasonable and very low price. They offer amazing value for the money at the fixed prices. Setting fixed prices is a very fair option for all involved parties.
+Thus there will be no sales.
