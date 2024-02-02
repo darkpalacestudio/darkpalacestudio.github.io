@@ -6,7 +6,10 @@ permalink: /imprint
 
 # Contact
 
-E-Mail: darkpalacestudio@posteo.com
+E-Mail: 
+```
+darkpalacestudio@posteo.com
+``````
 
 # Copyright
 
