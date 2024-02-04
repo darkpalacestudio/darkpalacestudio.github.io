@@ -21,7 +21,7 @@ Sloth brings the concept of slew rate limiting to the digital domain as a unique
 The UI is rendered on the GPU, offloading the CPU for the crucial part: audio processing. Additionally the plugin is freely resizable. 
 Themes and other modifications can easily be done via convenient `json` configuration files.
 
-# Downloads
+# Links
 
-* [Manual](assets/manuals/sloth_manual_v0.2.0.pdf)
-
+- [Manual](assets/manuals/sloth_manual_v0.3.0.pdf)
+- [Buy (20€)](https://darkpalacestudio.tentary.com/p/kod0B9)
