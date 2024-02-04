@@ -1,10 +1,9 @@
 ---
 layout: plugins
 permalink: /allpass_filters
-exclude: true
 ---
 
-# [Allpass fillters (10€)](www.example.org)
+# [Chameleon (10€)](www.example.org)
 
 ![TODO Allpass filters Screenshot](/assets/images/placeholder.png)
 
