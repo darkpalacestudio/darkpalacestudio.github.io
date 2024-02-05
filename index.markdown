@@ -10,8 +10,8 @@ layout: default
 
 Slew Rate Limiter
 
-## [All pass filters (coming soon)](/allpass_filters)
+## [All pass filters (coming soon)](/chameleon)
 
-[![Sloth Screenstho](/assets/images/placeholder.png){: width="250" }](/allpass_filters)
+[![Sloth Screenstho](/assets/images/placeholder.png){: width="250" }](/chameleon)
 
 All Pass Filters
