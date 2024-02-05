@@ -3,9 +3,14 @@ layout: plugins
 permalink: /sloth
 ---
 
-# [Sloth (20€)](https://darkpalacestudio.tentary.com/p/kod0B9)
+# Sloth
+<p style="text-align: right">
+<a href="https://example.org" class="w3-button">Purchase 10€</a>
+</p>
 
-![Sloth screenshot](/assets/images/sloth.png)
+{:refdef: style="text-align: center;"}
+![Sloth screenshot](/assets/images/sloth.png){: width="500" }
+{: refdef}
 
 # Slew Rate Limiter
 
@@ -24,4 +29,4 @@ Themes and other modifications can easily be done via convenient `json` configur
 # Links
 
 - [Manual](assets/manuals/sloth_manual_v0.3.0.pdf)
-- [Buy (20€)](https://darkpalacestudio.tentary.com/p/kod0B9)
+- [Purchase (20€)](https://darkpalacestudio.tentary.com/p/kod0B9)
