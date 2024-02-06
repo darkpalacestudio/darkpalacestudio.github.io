@@ -8,7 +8,7 @@ date: 2024-01-01
 ---
 
 <p style="text-align: right">
-<a href="https://example.org" class="w3-button">Purchase {{page.price}}€</a>
+<a href="https://example.org" class="w3-button">Purchase {{ page.price }}€</a>
 </p>
 
 ![Sloth UI](/assets/images/sloth_looping.gif)
