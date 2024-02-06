@@ -10,7 +10,7 @@ layout: default
         <div class="text-center product_box">
             <div class="product_image">
                 <!-- Start: Image -->
-                    <a href="{{ plugin.url }}"><img src="assets/images/{{ plugin.shortname }}.png" width="250px"></a>
+                    <a href="{{ plugin.url }}"><img src="assets/images/{{ plugin.shortname }}.png" width="250px" height="164"></a>
                 <!-- End: Image -->
             </div>
             <div class="product_info" style="padding-bottom: 8px; width: 100%">
