@@ -25,9 +25,6 @@ Applying slew rate limiting can result in a variety of effects, including in den
 
 Sloth brings the concept of slew rate limiting to the digital domain as a unique tool for artists, mixers and sound designers.
 
-The UI is rendered on the GPU, offloading the CPU for the crucial part: audio processing. Additionally the plugin is freely resizable. 
-Themes and other modifications can easily be done via convenient `json` configuration files.
-
 # Links
 
 - [Manual](assets/manuals/sloth_manual_v0.3.0.pdf)
