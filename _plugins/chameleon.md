@@ -3,7 +3,7 @@ layout: plugins
 price: 10
 name: Chameleon
 shortname: chameleon
-tagline: All pass filter suite
+tagline: All Pass Filter Suite
 date: 2024-01-02
 ---
 
