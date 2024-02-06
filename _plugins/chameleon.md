@@ -1,11 +1,14 @@
 ---
 layout: plugins
-permalink: /chameleon
+price: 10
+name: Chameleon
+shortname: chameleon
+tagline: All pass filter suite
+date: 2024-01-02
 ---
 
-# Chameleon
 <p style="text-align: right">
-<a href="https://example.org" class="w3-button">Purchase 10€</a>
+<a href="https://example.org" class="w3-button">Purchase {{page.price}}€</a>
 </p>
 
 {:refdef: style="text-align: center;"}
@@ -24,5 +27,5 @@ Chameleoon contains all the  allpass filters you will ever need for creative wor
 # Links
 
 - TODO manual
-- [Purchase (10€)](example.org)
+- [Purchase ({{page.price}}€)](example.org)
 

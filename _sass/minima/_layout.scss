@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -49,7 +49,7 @@
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
-    right: $spacing-unit / 2;
+    right: $spacing-unit * 0.5;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
@@ -106,13 +106,13 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px ;
   padding: $spacing-unit 0;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.5;
 }
 
 .contact-list,
@@ -124,49 +124,49 @@
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  margin-left: -$spacing-unit * 0.5;
   @extend %clearfix;
 }
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.5;
+  padding-left: $spacing-unit * 0.5;
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(35% - (#{$spacing-unit} * 0.5));
+  width:         calc(35% - (#{$spacing-unit} * 0.5));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(20% - (#{$spacing-unit} * 0.5));
+  width:         calc(20% - (#{$spacing-unit} * 0.5));
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(45% - (#{$spacing-unit} * 0.5));
+  width:         calc(45% - (#{$spacing-unit} * 0.5));
 }
 
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} * 0.5));
+    width:         calc(50% - (#{$spacing-unit} * 0.5));
   }
 
   .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(100% - (#{$spacing-unit} * 0.5));
+    width:         calc(100% - (#{$spacing-unit} * 0.5));
   }
 }
 
 @include media-query($on-palm) {
   .footer-col {
     float: none;
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(100% - (#{$spacing-unit} * 0.5));
+    width:         calc(100% - (#{$spacing-unit} * 0.5));
   }
 }
 
@@ -252,4 +252,56 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+// Styles used on the plugin main page
+.row {
+  margin-top: 20px; display: flex; flex-wrap: wrap;margin-right: -15px;margin-left: -15px;
+}
+
+.col-bottom-pad {
+  padding-bottom: 20px;
+  max-width: 30.0%;
+  position: relative;
+  width: 100%;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.product_box {
+  border: 1px solid;
+  border-top-color: currentcolor;
+  border-right-color: currentcolor;
+  border-bottom-color: currentcolor;
+  border-left-color: currentcolor;
+  border-color: #313335;
+  background-color: #313335;
+  border-radius: .5rem !important;
+  box-shadow: 6px 6px 6px #00000035;
+}
+
+.product_image {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  text-align: center !important;
+  box-shadow: 10px 10px 20px #00000035;
+}
+
+.product_info {
+  text-align: center !important;
+}
+
+.big_text_header {
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: #f2f2f2
+}
+
+.small_text_header {
+  font-size: 1rem;
+  margin-left: .4rem;
+  margin-right: .4rem;
+  color: #4b4d4f
 }

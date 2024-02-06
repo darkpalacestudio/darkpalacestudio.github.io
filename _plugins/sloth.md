@@ -1,18 +1,20 @@
 ---
 layout: plugins
-permalink: /sloth
+price: 20
+name: Sloth
+shortname: sloth
+tagline: Slew Rate Limiter
+date: 2024-01-01
 ---
 
-# Sloth
 <p style="text-align: right">
-<a href="https://example.org" class="w3-button">Purchase 10€</a>
+<a href="https://example.org" class="w3-button">Purchase {{page.price}}€</a>
 </p>
 
-{:refdef: style="text-align: center;"}
-![Sloth screenshot](/assets/images/sloth.png){: width="500" }
-{: refdef}
+![Sloth UI](/assets/images/sloth_looping.gif)
 
-# Slew Rate Limiter
+
+# {{page.tagline}}
 
 Sloth is a slew rate limiter plugin. In electronics "slew rate" is the change of voltage over time. 
 When the input signal at an amplifier switches instantly, the output will not immediately change, but "slew" to the new value at a certain rate.
@@ -29,4 +31,4 @@ Themes and other modifications can easily be done via convenient `json` configur
 # Links
 
 - [Manual](assets/manuals/sloth_manual_v0.3.0.pdf)
-- [Purchase (20€)](https://darkpalacestudio.tentary.com/p/kod0B9)
+- [Purchase ({{page.price}}€)](https://darkpalacestudio.tentary.com/p/kod0B9)
