@@ -1,18 +1,19 @@
 ---
 layout: plugins
-price: 20
+price: 15€
 name: Sloth
 shortname: sloth
 tagline: Slew Rate Limiter
+manual: assets/manuals/sloth_manual_v0.3.0.pdf
+shoplink: ""
 date: 2024-01-01
 ---
 
-<p style="text-align: right">
-<a href="https://example.org" class="w3-button">Purchase {{ page.price }}€</a>
-</p>
-
-![Sloth UI](/assets/images/sloth_looping.gif)
-
+<center>
+    <video autoplay loop width="800">
+        <source src="/assets/videos/sloth_looping.mp4" type="video/mp4">
+    </video>
+</center>
 
 # {{page.tagline}}
 
@@ -24,8 +25,3 @@ This in itself imposes a characteristic sound.
 Applying slew rate limiting can result in a variety of effects, including in denser signals, subtle darkening of the tone, enhanced texture of sounds up to massively mangled and crushed effects.
 
 Sloth brings the concept of slew rate limiting to the digital domain as a unique tool for artists, mixers and sound designers.
-
-# Links
-
-- [Manual](assets/manuals/sloth_manual_v0.3.0.pdf)
-- [Purchase ({{page.price}}€)](https://darkpalacestudio.tentary.com/p/kod0B9)

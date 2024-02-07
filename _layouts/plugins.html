@@ -7,10 +7,29 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+{% if page.shoplink != "" %}
+  <p style="text-align: right">
+    <a href="{{ page.shoplink }}" class="w3-button">Purchase {{ page.price }}</a>
+  </p>
+{% else %}
+<p style="text-align: right">
+  Coming soon
+</p>
+{% endif %}
 
+{{ content }}
 
 <!-- Information common for all plugins -->
+<h2>Links</h2>
+<ul>
+  {% if page.manual != "" %}
+    <li><a href="{{ page.manual }}">Manual</a></li>
+  {% endif %}
+  {% if page.shoplink != "" %}
+  <li><a href="{{ page.shoplink }}">Purchase ({{ page.price }})</a></li>
+  {% endif %}
+</ul>
+
 
 <h2> Performance and Customization</h2>
 
