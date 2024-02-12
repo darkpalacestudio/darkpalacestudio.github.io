@@ -305,3 +305,19 @@
   margin-right: .4rem;
   color: #4b4d4f
 }
+
+.buy_box {
+  display: flex;
+  justify-content: flex-end;
+  color: #313335;
+}
+
+.buy_button {
+  font-size: 1.4rem;
+  width: 15%;
+  border-color: #313335;
+  background-color: #313335;
+  text-align: center !important;
+  border: 1px solid;
+  border-radius: .2rem !important;
+}

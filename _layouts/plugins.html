@@ -8,9 +8,11 @@ layout: default
   {%- endif -%}
 
 {% if page.shoplink != "" %}
-  <p style="text-align: right">
-    <a href="{{ page.shoplink }}" class="w3-button">Purchase {{ page.price }}</a>
+<div class="buy_box">
+  <p class="buy_button">
+    <a href="{{ page.shoplink }}" class="w3-button">BUY {{ page.price }}</a>
   </p>
+</div>
 {% else %}
 <p style="text-align: right">
   Coming soon
@@ -26,7 +28,7 @@ layout: default
     <li><a href="{{ page.manual }}">Manual</a></li>
   {% endif %}
   {% if page.shoplink != "" %}
-  <li><a href="{{ page.shoplink }}">Purchase ({{ page.price }})</a></li>
+  <li><a href="{{ page.shoplink }}">Buy ({{ page.price }})</a></li>
   {% endif %}
 </ul>
 
