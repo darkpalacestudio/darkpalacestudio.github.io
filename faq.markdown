@@ -22,7 +22,7 @@ There is no copy protection or any other form of DRM (digital rights management)
 # Is an internet connection required?
 Once downloaded, all Darkpalace Studio plugins run completely offline.
 
-Darkpalce Studio plugins will **never**
+Darkpalace Studio plugins will **never**
 
 - try to "call home"
 - require any sort of online service
