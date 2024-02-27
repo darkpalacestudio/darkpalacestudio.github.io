@@ -38,7 +38,7 @@ You can find all plugins also on the [shop](https://darkpalacestudio.tentary.com
 # Do you offer sales?
 Darkpalace Studio plugins are offered at a reasonable fixed price. They offer amazing value for the money and are high quality.
 Setting fixed prices is a very fair option for all involved parties.
-Thus there will be no sales or included in any bundle deals.
+Thus there will be no sales or any bundle deals.
 
 
 # Do you offer any plugin subscriptions?
