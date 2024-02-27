@@ -21,7 +21,7 @@
 title: Darkpalace Studio
 email: darkpalacestudio@posteo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Darkpalace Studio is a Germany based software company that creates awesome audio technology.
+  Darkpalace Studio is software company based in Germany that creates awesome audio technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  darkpalacestudio
