@@ -16,7 +16,7 @@ permalink: /faq/
 
 
 # What kind of copy protection is used?
-There is no copy protection or any other form of DRM (digital rights management) used in Darkpalace Studio plugins. 
+There is no copy protection or any other form of DRM (digital rights management) used in Darkpalace Studio plugins.
 
 
 # Is an internet connection required?
@@ -49,8 +49,23 @@ There are no subscription options.
 All future updates are free to owners.
 
 
+# Do you offer demo versions or trials?
+No. As a small plugin developer time management is a crucial part. Building a demo version is actually a lot of effort.
+I'd rather spend that time on building great quality audio plugins and add new features.
+
+More importantly, a demo or trial version will require some sort of mute/noise feature. This is just a lightweight DRM to me. 
+We have all been burned by existing DRMs of other companies, so this is out of the question.
+
+
+# Your sales strategy is different from X, can you do Y?
+Most likely no. Most companies are in for the money, not for the customer.
+That is why they offer/require bundles, sales, high upgrade fees, DRM, hardware dongles, subscription models and other pieces from the [Enshittification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) toolbox. 
+At Darkpalace Stdio things are handled differently. Here it is "[Buy it, own it](https://doctorow.medium.com/https-pluralistic-net-2023-12-08-playstationed-tyler-james-hill-2ba28bfdbefc)".
+
+
 # Can I create my own theme for a plugin?
 Yes. All Darkpalace Studio plugins are highly customizable. Please take a look at the respective manual explaining the details.
+
 
 ## The plugin does not load on macOS
 On macOS an extra step is required to get the plugin to load correctly.
