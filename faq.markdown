@@ -57,6 +57,10 @@ More importantly, a demo or trial version will require some sort of mute/noise f
 We have all been burned by existing DRMs of other companies, so this is out of the question.
 
 
+# Do you offer refunds?
+As the plugins contain no DRM or licensing, there is generally no refund option.
+
+
 # Your sales strategy is different from X, can you do Y?
 Most likely no. Most companies are in for the money, not for the customer.
 That is why they offer/require bundles, sales, high upgrade fees, DRM, hardware dongles, subscription models and other pieces from the [Enshittification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) toolbox. 
@@ -67,10 +71,22 @@ At Darkpalace Stdio things are handled differently. Here it is "[Buy it, own it]
 Yes. All Darkpalace Studio plugins are highly customizable. Please take a look at the respective manual explaining the details.
 
 
-## The plugin does not load on macOS
+# The plugin does not load on macOS
 On macOS an extra step is required to get the plugin to load correctly.
 
 More info can be found in 
 - [this blogpost](https://www.osirisguitar.com/how-to-make-unsigned-vsts-work-in-macos-catalina/), 
 - [this reddit thread](https://www.reddit.com/r/ableton/comments/g1dn3z/fixing_plugins_for_use_in_macos_catalina/) or 
 - [this website](https://syntheway.com/fix-au-vst-vst3-macos.htm).
+
+
+# I have technical issues. Where can I get help?
+Please contact me via the official support email: 'darkpalacestudio@posteo.com'. 
+
+Please include the following information in your mail (if appropriate). They tremendously help to solve the problem faster
+- Description of the problem
+- Screenshots
+- Operating System and DAW (including versions)
+- Name of the plugin and version (displayed in the footer bar of the plugin)
+- System specs
+- Report from dxdiag or similar
