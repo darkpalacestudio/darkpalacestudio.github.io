@@ -79,12 +79,18 @@ More info can be found in
 - [this reddit thread](https://www.reddit.com/r/ableton/comments/g1dn3z/fixing_plugins_for_use_in_macos_catalina/) or 
 - [this website](https://syntheway.com/fix-au-vst-vst3-macos.htm).
 
+
 # The plugin looks weird with display scaling
 Windows does not consistently forward display scaling to plugins.
+
 If you are using windows settings to scale your screen and the plugin looks weird, you can fix this by changing the value `custom_ui_scaling_factor` in the config file `C:\Users\Public\Documents\Darkpalace Studio\sloth\sloth_ui.json`.
 
 When your Windows Settings show a display scaling of 125%, you need to set `custom_ui_scaling_factor` to `1.25`
 respectively.
+
+
+# The windows installer complains about installing the vst3 (error 183)
+Please try to delete any old vst3 manually and run the installer again.
 
 
 # I have technical issues. Where can I get help?
