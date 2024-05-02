@@ -264,13 +264,14 @@
 }
 
 .col-bottom-pad {
+  display: block;
   padding-bottom: 20px;
   min-width: 30.0%;
   max-width: 40.0%;
   position: relative;
   width: 100%;
-  padding-right: 8px;
-  padding-left: 8px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .product_box {
