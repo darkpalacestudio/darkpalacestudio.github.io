@@ -256,16 +256,21 @@
 
 // Styles used on the plugin main page
 .row {
-  margin-top: 20px; display: flex; flex-wrap: wrap;margin-right: -15px;margin-left: -15px;
+  margin-top: 20px; 
+  display: flex; 
+  flex-wrap: wrap; 
+  margin-right: -15px; 
+  margin-left: -15px;
 }
 
 .col-bottom-pad {
   padding-bottom: 20px;
-  max-width: 30.0%;
+  min-width: 30.0%;
+  max-width: 40.0%;
   position: relative;
   width: 100%;
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 .product_box {
