@@ -4,7 +4,7 @@ price: 20€
 name: Sloth
 shortname: sloth
 tagline: Slew Rate Limiter
-manual: /assets/manuals/sloth_manual_v1.0.2.pdf
+manual: /assets/manuals/sloth_manual_v1.0.3.pdf
 shoplink: "https://darkpalacestudio.tentary.com/p/kod0B9"
 date: 2024-01-01
 ---
