@@ -17,6 +17,6 @@ date: 2024-01-02
 Chameleoon contains all the  allpass filters you will ever need for creative work.
 
 - **Chameleon 1**: First order allpass filter with frequency control
-- **Chameleon 2**: First order allpass filter with frequency and q controls
+- **Chameleon 2**: Second order allpass filter with frequency and q controls
 - **Chameleon N**: Nth order allpass filter with frequency, q and order controls
 - **Chameleon X**: Stacking of up to X allpass filters
