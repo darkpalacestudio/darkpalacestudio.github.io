@@ -16,7 +16,7 @@ date: 2024-07-01
 </center>
 
 # All Pass Filter Suite
-Chameleoon contains all the  allpass filters you will ever need for creative work.
+Chameleon contains all the  allpass filters you will ever need for creative work.
 
 - **Chameleon 1**: First order allpass filter with frequency control
 - **Chameleon 2**: Second order allpass filter with frequency and q controls
