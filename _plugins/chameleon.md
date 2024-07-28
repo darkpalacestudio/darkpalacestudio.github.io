@@ -6,7 +6,7 @@ shortname: chameleon
 tagline: All Pass Filter Suite
 manual: ""
 shoplink: ""
-date: 2024-08-01
+date: 2024-07-01
 ---
 
 <center>
