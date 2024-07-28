@@ -9,9 +9,11 @@ shoplink: ""
 date: 2024-08-01
 ---
 
-{:refdef: style="text-align: center;"}
-![chameleon Screenshot](/assets/images/chameleon.png){: width="500" }
-{: refdef}
+<center>
+    <video autoplay loop width="100.0%">
+        <source src="/assets/videos/chameleon_x_looping.mp4" type="video/mp4">
+    </video>
+</center>
 
 # {{page.tagline}}
 Chameleoon contains all the  allpass filters you will ever need for creative work.
