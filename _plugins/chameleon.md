@@ -15,7 +15,7 @@ date: 2024-08-01
     </video>
 </center>
 
-# {{page.tagline}}
+# All Pass Filter Suite
 Chameleoon contains all the  allpass filters you will ever need for creative work.
 
 - **Chameleon 1**: First order allpass filter with frequency control
