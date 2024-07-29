@@ -10,7 +10,7 @@ date: 2024-01-01
 ---
 
 <center>
-    <video autoplay loop width="100.0%">
+    <video autoplay loop muted>
         <source src="/assets/videos/sloth_looping.mp4" type="video/mp4">
     </video>
 </center>

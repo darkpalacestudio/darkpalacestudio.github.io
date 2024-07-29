@@ -10,7 +10,7 @@ date: 2024-07-01
 ---
 
 <center>
-    <video autoplay loop width="100.0%">
+    <video autoplay loop muted>
         <source src="/assets/videos/chameleon_x_looping.mp4" type="video/mp4">
     </video>
 </center>
