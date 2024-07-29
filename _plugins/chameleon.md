@@ -9,11 +9,9 @@ shoplink: ""
 date: 2024-07-01
 ---
 
-<center>
-    <video autoplay loop muted playsinline width="100.0%">
-        <source src="/assets/videos/chameleon_x_looping.mp4" type="video/mp4">
-    </video>
-</center>
+<video autoplay loop muted playsinline width="100.0%">
+	<source src="/assets/videos/chameleon_x_looping.mp4" type="video/mp4">
+</video>
 
 # All Pass Filter Suite
 Chameleon contains all the  allpass filters you will ever need for creative work.

@@ -9,11 +9,9 @@ shoplink: "https://darkpalacestudio.tentary.com/p/kod0B9"
 date: 2024-01-01
 ---
 
-<center>
-    <video autoplay loop muted playsinline width="100.0%">
-        <source src="/assets/videos/sloth_looping.mp4" type="video/mp4">
-    </video>
-</center>
+<video autoplay loop muted playsinline width="100.0%">
+	<source src="/assets/videos/sloth_looping.mp4" type="video/mp4">
+</video>
 
 # {{page.tagline}}
 
