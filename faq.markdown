@@ -78,7 +78,8 @@ Yes. All Darkpalace Studio plugins are highly customizable. Please take a look a
 # The plugin does not load on macOS
 On macOS an extra step is required to get the plugin to load correctly.
 
-More info can be found in 
+More info can be found in
+- [this website](https://disable-gatekeeper.github.io/)
 - [this blogpost](https://www.osirisguitar.com/how-to-make-unsigned-vsts-work-in-macos-catalina/), 
 - [this reddit thread](https://www.reddit.com/r/ableton/comments/g1dn3z/fixing_plugins_for_use_in_macos_catalina/) or 
 - [this website](https://syntheway.com/fix-au-vst-vst3-macos.htm).
