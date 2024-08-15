@@ -97,6 +97,13 @@ respectively.
 # The windows installer complains about installing the vst3 (error 183)
 Please try to delete any old vst3 manually and run the installer again.
 
+# The plugin UI does not open (but it does not crash)
+This can be fixed by deleting the `editor.json` file in the respective folder:
+
+- **Win**: `C:\Users\Public\Documents\Darkpalace Studio\[pluginName]`
+- **Mac**: `/Users/Shared/Darkpalace Studio/[pluginName]`
+- **Linux**: `~/.config/Darkpalace Studio/[pluginName]`
+
 
 # I have technical issues. Where can I get help?
 Please contact me via the official support email: 'darkpalacestudio@posteo.com'. 
