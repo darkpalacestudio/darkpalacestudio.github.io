@@ -88,7 +88,7 @@ More info can be found in
 # The plugin looks weird with display scaling
 Windows does not consistently forward display scaling to plugins.
 
-If you are using windows settings to scale your screen and the plugin looks wei+rd, you can fix this by changing the value `custom_ui_scaling_factor` in the config file of your plugin, e.g.`C:\Users\Public\Documents\Darkpalace Studio\sloth\sloth_ui.json`.
+If you are using windows settings to scale your screen and the plugin looks wei+rd, you can fix this by changing the value `custom_ui_scaling_factor` in the theme of your plugin, e.g.`C:\Users\Public\Documents\Darkpalace Studio\sloth\themes\Dark.json`.
 
 When your Windows Settings show a display scaling of 125%, you need to set `custom_ui_scaling_factor` to `1.25`
 respectively.
