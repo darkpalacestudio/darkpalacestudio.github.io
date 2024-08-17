@@ -68,7 +68,7 @@ As the plugins contain no DRM or licensing, there is generally no refund option.
 # Your sales strategy is different from Y! Can you do Z?
 Most likely no. Most companies are in for the money, not for the customer.
 That is why they offer/require bundles, sales, high upgrade fees, DRM, hardware dongles, subscription models and other pieces from the [Enshittification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) toolbox. 
-At Darkpalace Stdio things are handled differently. Here it is "[Buy it, own it](https://doctorow.medium.com/https-pluralistic-net-2023-12-08-playstationed-tyler-james-hill-2ba28bfdbefc)".
+At Darkpalace Studio things are handled differently. Here it is "[Buy it, own it](https://doctorow.medium.com/https-pluralistic-net-2023-12-08-playstationed-tyler-james-hill-2ba28bfdbefc)".
 
 
 # Can I create my own theme for a plugin?
