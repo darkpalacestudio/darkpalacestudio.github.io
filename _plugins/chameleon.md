@@ -1,12 +1,12 @@
 ---
 layout: plugins
-price: 15€
+price: 20€
 name: Chameleon
 shortname: chameleon
 tagline: All Pass Filter Suite
 manual: ""
 shoplink: ""
-date: 2024-07-01
+date: 2024-08-27
 ---
 
 <video autoplay loop muted playsinline width="100.0%">
