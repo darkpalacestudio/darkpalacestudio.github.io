@@ -29,3 +29,9 @@ By mixing, adding and/or subtracting the processed signal from the dry signal th
 Chameleon N stacks multiple 2nd order allpass filters at the same frequency, resulting in a Nth order allpass filter that allows for wild processing as the phase rotation quickly sums up.
 
 Finally, Chameleon X distributes multiple 2nd order allpass filters around a central frequency with additional controls for the placement of the filters to allow for frequency dependant delays, dispersed sounds, pitch-shifting and far more!
+
+# Sound examples
+
+First half is unprocessed, second half is with Sloth engaged:
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1869598463&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/darkpalacestudio" title="Darkpalacestudio" target="_blank" style="color: #cccccc; text-decoration: none;">Darkpalacestudio</a> · <a href="https://soundcloud.com/darkpalacestudio/sets/chameleon-demo" title="Chameleon Demos" target="_blank" style="color: #cccccc; text-decoration: none;">Chameleon Demos</a></div>
