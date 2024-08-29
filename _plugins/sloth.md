@@ -7,6 +7,7 @@ tagline: Slew Rate Limiter
 manual: /assets/manuals/sloth/sloth_manual_v1.1.1.pdf
 manual_print: ""
 shoplink: "https://darkpalacestudio.tentary.com/p/kod0B9"
+themes: /assets/images/sloth_themes.png
 date: 2024-01-01
 ---
 

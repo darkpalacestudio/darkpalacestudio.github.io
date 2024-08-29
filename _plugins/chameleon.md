@@ -7,6 +7,7 @@ tagline: All Pass Filter Suite
 manual: /assets/manuals/chameleon/chameleon_manual_v1.0.0.pdf
 manual_print: /assets/manuals/chameleon/chameleon_manual_print_v1.0.0.pdf
 shoplink: https://darkpalacestudio.tentary.com/p/h0sw02
+themes: /assets/images/chameleon_themes.png
 date: 2024-08-27
 ---
 
