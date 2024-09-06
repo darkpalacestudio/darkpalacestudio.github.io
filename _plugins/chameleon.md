@@ -38,7 +38,12 @@ First half is unprocessed, second half is with Chameleon engaged:
 
 # Launch Video
 <center>
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/N4tbuFmfv1Y?si=tVvjjBywDbONL154" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/N4tbuFmfv1Y?si=tVvjjBywDbONL154" title="Chameleon Launch Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+# Showcase Short
+<center>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/G5AueYHkreY" title="Chameleon Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 # Showcase Video by Beats Basteln
