@@ -12,7 +12,7 @@ date: 2024-08-27
 ---
 
 <video autoplay loop muted playsinline width="100.0%">
-	<source src="/assets/videos/chameleon_x_looping.mp4" type="video/mp4">
+	<source src="/assets/videos/chameleon_looping.mp4" type="video/mp4">
 </video>
 
 # All Pass Filter Suite
@@ -36,9 +36,9 @@ First half is unprocessed, second half is with Chameleon engaged:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1869598463&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/darkpalacestudio" title="Darkpalacestudio" target="_blank" style="color: #cccccc; text-decoration: none;">Darkpalacestudio</a> · <a href="https://soundcloud.com/darkpalacestudio/sets/chameleon-demo" title="Chameleon Demos" target="_blank" style="color: #cccccc; text-decoration: none;">Chameleon Demos</a></div>
 
-# Showcase Short
+# Introduction Trailer
 <center>
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/G5AueYHkreY" title="Chameleon Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/watch?v=N4tbuFmfv1Y" title="Chameleon Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 # Showcase Video by Beats Basteln
