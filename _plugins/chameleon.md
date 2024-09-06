@@ -38,7 +38,7 @@ First half is unprocessed, second half is with Chameleon engaged:
 
 # Introduction Trailer
 <center>
-<iframe width="100%" height="450" src="https://www.youtube.com/watch?v=N4tbuFmfv1Y" title="Chameleon Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/N4tbuFmfv1Y?si=pjkIQLTYZauv_6lk" title="Chameleon Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 # Showcase Video by Beats Basteln
