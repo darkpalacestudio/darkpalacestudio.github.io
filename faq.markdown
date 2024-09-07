@@ -49,10 +49,12 @@ You can also find all of our plugins on the [Tentary Shop](https://darkpalacestu
 
 
 # Do you offer sales?
-We believe that our plugins are offered at a reasonable price considering the current market
+We believe that our plugins are offered at a reasonable price considering the current market.
 Darkpalace Studio plugins are offered at a reasonable fixed price.
 Setting fixed prices is a very fair option for all involved parties.
-Thus there will be no sales or any bundle deals.
+Thus there will be no sales.
+
+Note that we do offer Affiliate links where a percentage of the price is a commission. The price for the customer stays the same.
 
 
 
@@ -68,7 +70,7 @@ All of our plugins come with free life-time updates.
 
 # Do you offer demo versions or trials?
 As of this moment, no. As a new and small plugin develop, time management is a crucial and difficult part.
-Building a demo is a lot of effort to both develop and manage and goes against our principle of DRM-protection.
+Building a demo is a lot of effort regarding development and maintenance.  Also it goes against our principle of no DRM-protection.
 
 Because of that we believe that it's worth more to spend our time on adding new features and 
 building more awesome audio plugins.
@@ -80,7 +82,7 @@ Due to our plugins not containing any form of DRM (Digital Rights Management) we
 issue any refunds. Our reasoning is that a customer could buy one of our products, request a refund 
 and then continue to use our products.
 
-In the case that you are truly unsatisfied with one of our products feel free to get in touch so
+In the case there are any technical issues with one of our products, feel free to get in touch so
 that we can discuss potential solutions.
 
 
@@ -92,14 +94,16 @@ as possible by utilizing various strategies such as:
 - Offering bundles as 'to-good-to-be-true'
 - High upgrade fees
 - DRM (login, dongles, etc)
+- Subscription based services
+- Verndor lock-ins
 
 And many more tools from the [Enshittification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) toolbox.
 At Darkpalace Studio we believe in the concept of "[You Buy it, You own it](https://doctorow.medium.com/https-pluralistic-net-2023-12-08-playstationed-tyler-james-hill-2ba28bfdbefc)"
 
 
 
-# Some of these themes look great but can I create my own?
-Yes! All of our plugins are highly customizable, take a look at the respective manual for more details.
+# Some of these themes look great! Can I create my own?
+Yes! All of our plugins are highly customizable, take a look at the respective manual for more details and feel free to contact us if there are any questions.
 
 
 
@@ -115,7 +119,7 @@ More info can be found in
 
 
 
-# The plugin appears to look incorrectly scaled on Windows
+# The plugin appears to look incorrectly scaled
 Windows is known to not always be consistent, this including letting applications know
 of the ui-scaling factor it uses. Because of this the GUI of Darkpalace Studio plugins can
 often look out of proportions. In order to address this you will have to change a value in
@@ -135,14 +139,14 @@ custom_ui_scaling_factor to 1.25
 
 
 # When running the windows installer an error pops-up regarding installing the VST (Error 183)
-Windows is known to have issues with file-locking, before running the installer please make sure
+Windows is known to have issues with file-locking. Before running the installer, please make sure
 that any VST-Host applications are closed and, if present, try to delete the already existing
-plugin files.
+plugin files before installation.
 
 
 
 # When I try opening the plugin UI nothing shows up (But it does not crash)
-This is a known bug and we are working on fixing this, for now this can be fixed by going to
+This is a known issue with some DAWs. For now this can be fixed by going to
 the respective plugin folder and deleting a file called `_editor.json`. The file can be located
 in the following folders:
 
