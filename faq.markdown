@@ -39,9 +39,9 @@ Darkpalace Studio plugins will **never**
 
 
 
-# How can I purchase any of the plugins?
+# How can I purchase any of your plugins?
 All of our plugins are sold through Tentary which you can access by clicking the "Buy" button
-located top of the designated plugin page which will take you to the payment provider
+located at the top of the designated plugin page which will take you to the payment provider
 which handles secure payment and taxes. Tentary also provides you a way to download the files.
 
 You can also find all of our plugins on the [Tentary Shop](https://darkpalacestudio.tentary.com/)
@@ -49,12 +49,11 @@ You can also find all of our plugins on the [Tentary Shop](https://darkpalacestu
 
 
 # Do you offer sales?
-We believe that our plugins are offered at a reasonable price considering the current market.
-Darkpalace Studio plugins are offered at a reasonable fixed price.
-Setting fixed prices is a very fair option for all involved parties.
-Thus there will be no sales.
+We believe that our plugins are offered at a reasonable price considering the current market and
+therefor will not offer any sales or bundle-deals.
 
-Note that we do offer Affiliate links where a percentage of the price is a commission. The price for the customer stays the same.
+Note that we do offer Affiliate links where a percentage of the price is a commission. 
+The price, however, for the customer will stay the same.
 
 
 
@@ -95,7 +94,7 @@ as possible by utilizing various strategies such as:
 - High upgrade fees
 - DRM (login, dongles, etc)
 - Subscription based services
-- Verndor lock-ins
+- Vendor lock-ins
 
 And many more tools from the [Enshittification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/) toolbox.
 At Darkpalace Studio we believe in the concept of "[You Buy it, You own it](https://doctorow.medium.com/https-pluralistic-net-2023-12-08-playstationed-tyler-james-hill-2ba28bfdbefc)"
