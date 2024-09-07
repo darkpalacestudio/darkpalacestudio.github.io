@@ -41,7 +41,7 @@ Darkpalace Studio plugins will **never**
 
 # How can I purchase any of the plugins?
 All of our plugins are sold through Tentary which you can access by clicking the "Buy" button
-located top-left of the designated plugin page which will take you to the payment provider
+located top of the designated plugin page which will take you to the payment provider
 which handles secure payment and provides a way to download the files.
 
 You can also find all of our plugins on the [Tentary Shop](https://darkpalacestudio.tentary.com/)
