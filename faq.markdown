@@ -157,7 +157,7 @@ in the following folders:
 
 # I have technical issues. Where can I get help?
 If you have any other issues not listed here in the FAQ or simply have a question, feel free
-to reach out to us via the official support email: 'darkpalacestudio@posteo.com'. 
+to reach out to us via the official support email: `darkpalacestudio@posteo.com`. 
 
 Please include the following information in your mail (if appropriate). They tremendously help to solve the problem faster
 - Description of the problem
