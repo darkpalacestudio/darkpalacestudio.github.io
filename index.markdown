@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Audio Plugins
+# Audio Plugins (VST3, CLAP, AU)
 
 <div class="row">
     {% for plugin in site.plugins %}
