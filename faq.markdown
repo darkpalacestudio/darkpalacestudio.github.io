@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq/
+permalink: /faq
 ---
 
 # What file-formats are available for your plugins?
