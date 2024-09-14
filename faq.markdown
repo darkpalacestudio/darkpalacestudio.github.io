@@ -107,8 +107,12 @@ Yes! All of our plugins are highly customizable, take a look at the respective m
 
 
 # The plugin does not load on macOS
-We are aware of this and are looking into this for future development. However, for now on macOS an 
-extra step is required to get the plugin to load correctly.
+
+**Fixed as of October 2024**
+
+Starting with Sloth v1.1.2 and Chameleon 1.1.0 the macOS version of the plugins are codesigned.
+
+For older versions on macOS an extra step is required to get the plugin to load correctly.
 
 More info can be found in
 - [this website](https://disable-gatekeeper.github.io/)
