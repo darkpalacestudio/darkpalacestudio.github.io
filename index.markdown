@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Audio Plugins
+# Audio Plugins (VST3, CLAP, AU)
 
 <div class="row">
-{% for plugin in site.plugins %}
-<div class="col-bottom-pad">
+    {% for plugin in site.plugins %}
+    <div class="col-bottom-pad">
         <div class="text-center product_box">
             <div class="product_image">
                 <!-- Start: Image -->
@@ -25,6 +25,5 @@ layout: default
             </div>
         </div>
     </div>
-
-{% endfor %}
+    {% endfor %}
 </div>
