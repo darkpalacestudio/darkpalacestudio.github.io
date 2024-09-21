@@ -34,11 +34,16 @@ First half is unprocessed, second half is with Sloth engaged:
 
 # Video teaser
 <center>
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/RxoibS7sctI?si=3H9zTNwb-pZKgDb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="448" src="https://www.youtube.com/embed/RxoibS7sctI?si=3H9zTNwb-pZKgDb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 
 # Showcase Video by Beats Basteln
 <center>
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/Nw6SbvLAp2w?si=dq-NnmmrZVmFsshR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="448" src="https://www.youtube.com/embed/Nw6SbvLAp2w?si=dq-NnmmrZVmFsshR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+# Showcase Video by Amner Hunter
+<center>
+<iframe width="100%" height="448" src="https://www.youtube.com/embed/e_UVCYnJrFM?si=-2JQpRPxVkf6YIHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
