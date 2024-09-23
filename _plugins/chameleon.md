@@ -4,8 +4,8 @@ price: 20€
 name: Chameleon
 shortname: chameleon
 tagline: All Pass Filter Suite
-manual: /assets/manuals/chameleon/chameleon_manual_v1.0.0.pdf
-manual_print: /assets/manuals/chameleon/chameleon_manual_print_v1.0.0.pdf
+manual: /assets/manuals/chameleon/chameleon_manual_v1.1.0.pdf
+manual_print: /assets/manuals/chameleon/chameleon_manual_print_v1.1.0.pdf
 shoplink: https://darkpalacestudio.tentary.com/p/h0sw02
 themes: /assets/images/chameleon_themes.webp
 date: 2024-08-27
