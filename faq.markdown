@@ -141,7 +141,7 @@ custom_ui_scaling_factor to 1.25
 
 
 
-# When running the windows installer an error pops-up regarding installing the VST (Error 183)
+# When running the Windows installer an error pops-up regarding installing the VST (Error 183)
 Windows is known to have issues with file-locking. Before running the installer, please make sure
 that any VST-Host applications are closed and, if present, try to delete the already existing
 plugin files before installation.

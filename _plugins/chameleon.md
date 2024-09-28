@@ -4,8 +4,8 @@ price: 20€
 name: Chameleon
 shortname: chameleon
 tagline: All Pass Filter Suite
-manual: /assets/manuals/chameleon/chameleon_manual_v1.0.0.pdf
-manual_print: /assets/manuals/chameleon/chameleon_manual_print_v1.0.0.pdf
+manual: /assets/manuals/chameleon/chameleon_manual_v1.1.1.pdf
+manual_print: /assets/manuals/chameleon/chameleon_manual_print_v1.1.1.pdf
 shoplink: https://darkpalacestudio.tentary.com/p/h0sw02
 themes: /assets/images/chameleon_themes.webp
 date: 2024-08-27
@@ -38,10 +38,15 @@ First half is unprocessed, second half is with Chameleon engaged:
 
 # Introduction Trailer
 <center>
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/N4tbuFmfv1Y?si=pjkIQLTYZauv_6lk" title="Chameleon Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="448" src="https://www.youtube.com/embed/N4tbuFmfv1Y?si=pjkIQLTYZauv_6lk" title="Chameleon Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 # Showcase Video by Beats Basteln
 <center>
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/1Ce-3PsyN4I?si=B3Pty5dUYMFLZVzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="448" src="https://www.youtube.com/embed/1Ce-3PsyN4I?si=B3Pty5dUYMFLZVzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+# Showcase Video by Amner Hunter
+<center>
+<iframe width="100%" height="448" src="https://www.youtube.com/embed/e_UVCYnJrFM?si=-2JQpRPxVkf6YIHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
